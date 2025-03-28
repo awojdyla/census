@@ -3,7 +3,7 @@ Analysis of census data by race/ethnicity to *update* the 2019 report from the P
 
 We observe that the most common age in the US in now 65 – the silver wave is coming at us.
 
-![update](.assets/Total-US-population-by-Age-and-Characteristics-in-December-2024-A-Islegen-Wojdyla.jpg)
+![Total-US-population-by-Age-and-Characteristics-in-December-2024](./assets/Total-US-population-by-Age-and-Characteristics-in-December-2024-A-Islegen-Wojdyla.jpg)
 
 I've used this date in my blog post and my bluesky post:
 * [Missing millions – Subliminal](http://antoine.wojdyla.fr/blog/2025/01/07/missing-millions/)
